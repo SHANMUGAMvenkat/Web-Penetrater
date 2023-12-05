@@ -11,6 +11,7 @@ Let Enter Setup:
 # Download and Extract the file,
 
 
+
 # Install Requiremnets by using
 
 **pip install -r requirements.txt**
@@ -27,6 +28,18 @@ paste it in MainUI.py
 # Add your api key in MainUI.py
 Create account in virus total and click profile, copy your API key and paste it in MainUI.py
 
+![Screenshot 2023-12-05 103926](https://github.com/SHANMUGAMvenkat/Automated-web-vulnerability-analyzer/assets/124849779/e571e68c-bcb8-46bd-b04a-f5158ef7ef9b)
+
+
 # Run MainUI.py
+
+
 **
 Python MainUi.py**
+
+@kapilsurya
+
+
+![Screenshot 2023-12-05 104048](https://github.com/SHANMUGAMvenkat/Automated-web-vulnerability-analyzer/assets/124849779/1c350440-0ec5-4496-92f3-c4c852eb79f0)
+
+
