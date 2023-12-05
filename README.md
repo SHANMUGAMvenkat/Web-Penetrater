@@ -9,12 +9,20 @@ Thank you for Sqlmap Developer, XXstrike developer, techviper developer, sqlmap 
 Let Enter Setup:
 
 # Download and Extract the file,
+
+
 # Install Requiremnets by using
 
 **pip install -r requirements.txt**
 
 # open MainUI.py in idle Python,
-Add your path in every tools, right click any tool file and copy as path and paste it in MainUI.py file,
+Add your path in every tools, right click any tool .py file and copy as path and paste it in MainUI.py file,
+
+![Screenshot 2023-12-05 103548](https://github.com/SHANMUGAMvenkat/Automated-web-vulnerability-analyzer/assets/124849779/774f873d-8a80-4fea-9160-9c6be8b8aa72)
+
+paste it in MainUI.py
+
+![Screenshot 2023-12-05 103745](https://github.com/SHANMUGAMvenkat/Automated-web-vulnerability-analyzer/assets/124849779/e20dfcd8-aa21-4f4c-b525-eb50b307dda7)
 
 # Add your api key in MainUI.py
 Create account in virus total and click profile, copy your API key and paste it in MainUI.py
