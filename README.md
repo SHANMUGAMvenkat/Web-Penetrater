@@ -37,9 +37,11 @@ Create account in virus total and click profile, copy your API key and paste it 
 **
 Python MainUi.py**
 
-@kapilsurya
+
 
 
 ![Screenshot 2023-12-05 104048](https://github.com/SHANMUGAMvenkat/Automated-web-vulnerability-analyzer/assets/124849779/1c350440-0ec5-4496-92f3-c4c852eb79f0)
+
+
 
 
