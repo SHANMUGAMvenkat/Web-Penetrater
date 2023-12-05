@@ -1,0 +1,7 @@
+requests
+tld
+fuzzywuzzy
+ttkthemes
+bs4
+argparse
+whois
